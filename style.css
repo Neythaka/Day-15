@@ -1,0 +1,52 @@
+h2{
+    color: rgb(113, 113, 210);
+}
+h4{
+    color: rgb(126, 160, 67)
+}
+p{
+    color: rgba(234, 210, 210, 0.859);
+}
+h3{
+    color: aqua;
+}
+h1{
+    color: aqua;
+    display: inline-block;
+
+}
+h5{
+    color: aqua;
+}
+.section1{
+    background-color: aqua;
+    border-radius: 10px;
+    padding: 10px;
+}
+.section2{
+    background-color: brown;
+    
+width: 40%;
+text-align: center;
+padding-bottom: 10px;
+}
+.section3{
+    background-color: darkslategrey;
+    
+    width: 60%;
+}
+.section{
+    display: flex;
+    width: 100%;
+}
+a{
+    text-decoration: none;
+    background-color: aqua;
+    color: white;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-shadow: 2px 2px 5px red;
+    box-shadow: 3px 3px 3px black;
+}
